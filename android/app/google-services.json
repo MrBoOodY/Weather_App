@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "802097425059",
+    "project_id": "weath_app-dce51",
+    "storage_bucket": "weath_app-dce51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802097425059:android:b19d93cf5f275f130bed16",
+        "android_client_info": {
+          "package_name": "com.app.weath_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802097425059-o97637cbq9r9i7974r6oj8m265q5452s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNWWX5Ks2TLAZTO6TBfHnjZAJ-ii20ePY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802097425059-o97637cbq9r9i7974r6oj8m265q5452s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "802097425059-clmfa0avokld1n7o71mcqmrm8l0ue9e5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.alfaisalForAdvertising"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
